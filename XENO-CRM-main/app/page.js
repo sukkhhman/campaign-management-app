@@ -74,7 +74,7 @@ const Home = () => {
         <p className="mb-6">
           Manage your customers and orders seamlessly with our intuitive CRM platform.
         </p>
-        <p className="text-l  mb-4">By Shrishir Srivatsa </p>
+        <p className="text-l  mb-4">By Sukhmandeep Singh </p>
         <button 
           onClick={handleGetStarted} 
           className="w-full bg-blue-500 text-white py-2 rounded hover:bg-blue-600 transition duration-200"
