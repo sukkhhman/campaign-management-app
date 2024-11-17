@@ -14,7 +14,7 @@ const geistMono = localFont({
 
 export const metadata = {
   title: "XENO CRM",
-  description: "Created by Shrishir",
+  description: "Created by Sukhman",
 };
 
 export default function RootLayout({ children }) {
